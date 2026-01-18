@@ -1,0 +1,5 @@
+PyQt6
+pyaudio
+speechmatics-python
+numpy
+python-dotenv
